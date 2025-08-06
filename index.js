@@ -6,7 +6,7 @@ function sigD(x) {
   let s = sig(x);
   return s * (1 - s);
 }
-
+//1-1-1-1 neural network
 let w1 = Math.random();
 let b1 = Math.random();
 
